@@ -1,5 +1,5 @@
 
-# Banking-Management-System-using-My-SQL---PYTHON
+# Banking-Management-System-using-My-SQL-PYTHON
 About
 
 In this project, we have created a Virtual Bank (COLONY BANK OF INDIA) using Python and MySQL. Data entered by the user are stored in the MYSQL database in tabular form. Here We have done a CRUD Operation. The Best Part of this code is that it is 100 % user-friendly because of the excess use of exceptional handling.
