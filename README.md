@@ -51,6 +51,7 @@ Before Running This Code in Your System Make Sure you have created the bank and 
 ![5th](https://github.com/Ajish777/Banking-Management-System-using-My-SQL-PYTHON/assets/110074935/964ac46a-b42d-4e49-b51b-991d851a1f70)
 
 ## Properties of Table In MY SQL Database:
-<img width="960" alt="6th" src="https://github.com/Ajish777/Banking-Management-System-using-My-SQL-PYTHON/assets/110074935/7794a549-7787-4b38-895e-0314030823b6">
+<img width="960" alt="6th" src="https://github.com/Ajish777/Banking-Management-System-using-My-SQL-PYTHON/assets/110074935/94ac61bc-ff7f-4860-aca6-26f283d71239">
+
 
 
