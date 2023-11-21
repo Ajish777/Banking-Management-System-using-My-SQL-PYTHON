@@ -9,19 +9,29 @@ This project is designed for The Bank Staff to keep a record of their customers.
 *Requirement
 
 Python Latest Version
+
 Visual Code
+
 Mysql
+
 Python My SQL Converter: Most Important
+
 *Module Used in Python Code
 
 datetime
+
 mysql.connector
+
 *About Mysql Code
 
 The database used here is Hubnet
+
 address = local
+
 user=root
+
 password=12345678
+
 UserName is the Primary Key in Bank Table and UserName1 is the Foreign Key in Transaction Table.
 
 Suggestion: Run Bank-Project.py Code in IDLE.
