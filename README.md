@@ -38,9 +38,9 @@ Suggestion: Run Bank-Project.py Code in IDLE.
 
 Before Running This Code in Your System Make Sure you have created the bank and transactions Table.
 
-*My Sql Code for Creating Table Bank create table bank(name varchar(30), UserName varchar(30),password tinytext , Date_of_birth date, address varchar(40) ,Mobile_Number varchar(30) ,Aadhar_no varchar(30), Balance int);
+* My Sql Code for Creating Table Bank create table bank(name varchar(30), UserName varchar(30),password tinytext , Date_of_birth date, address varchar(40) ,Mobile_Number varchar(30) ,Aadhar_no varchar(30), Balance int);
 
-*My Sql code for creating Table Transaction: create table Transaction(credited int , debited int , username1 varchar(20), foreign key(username1) references bank(username));
+* My Sql code for creating Table Transaction: create table Transaction(credited int , debited int , username1 varchar(20), foreign key(username1) references bank(username));
 
 ## Some Glimpse of this project are shown below
 
